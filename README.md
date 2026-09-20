@@ -6,4 +6,4 @@ I tried including an icon file with it, but without success.
 
 ------ download ------
 
-click [Here]((https://github.com/zighost7568/shitty_calculator/releases/tag/v0.1)) to download
+click [Here](https://github.com/zighost7568/shitty_calculator/releases/tag/v0.1) to download
